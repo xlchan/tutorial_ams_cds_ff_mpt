@@ -1,0 +1,9 @@
+BAG_framework:
+  url: git@github.com:bluecheetah/bag.git
+  branch: master
+tutorial_ams:
+  url: git@github.com:bluecheetah/tutorial_ams.git
+  branch: master
+xbase:
+  url: git@github.com:bluecheetah/xbase.git
+  branch: master

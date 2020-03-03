@@ -1,0 +1,17 @@
+[submodule "BAG_framework"]
+	path = BAG_framework
+	url = git@github.com:bluecheetah/bag.git
+[submodule "cds_ff_mpt"]
+	path = cds_ff_mpt
+	url = git@github.com:bluecheetah/cds_ff_mpt.git
+[submodule "tutorial_ams"]
+	path = tutorial_ams
+	url = git@github.com:bluecheetah/tutorial_ams.git
+	branch = master
+[submodule "xbase"]
+	path = xbase
+	url = git@github.com:bluecheetah/xbase.git
+	branch = master
+[submodule "data/tutorial_ams"]
+	path = data/tutorial_ams
+	url = git@github.com:bluecheetah/tutorial_ams_data_cds_ff_mpt.git
