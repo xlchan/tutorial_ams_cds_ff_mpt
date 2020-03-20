@@ -17,6 +17,8 @@ Apache license.
 git submodule update --init --recursive
 ```
 
+The submodules and this repo itself are setup using ssh.  If for some reason you are unable to access external sources via ssh (firewall or access reasons) you can most likely setup ssh over the https port, as shown [here](https://help.github.com/en/github/authenticating-to-github/using-ssh-over-the-https-port)
+
 3. Change various environment files in `skywater130/workspace_setup` to match your settings.
 This will include the paths to tools found in the .bashrc file.
 
